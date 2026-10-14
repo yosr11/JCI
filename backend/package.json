@@ -1,0 +1,12 @@
+{
+  "name": "jci-contact-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "nodemailer": "^10.1.1"
+  }
+}
